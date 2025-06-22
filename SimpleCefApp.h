@@ -20,7 +20,6 @@ public:
 
         // CefBrowserProcessHandler methods:
     virtual void OnContextInitialized() override;
-    virtual void OnWebKitInitialized() override;
 
 private:
     // Include the default reference counting implementation.

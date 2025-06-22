@@ -138,8 +138,3 @@ void SimpleCefApp::OnContextInitialized()
             nullptr, nullptr);
     }
 }
-
-void SimpleCefApp::OnWebKitInitialized()
-{
-
-}
